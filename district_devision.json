@@ -1,0 +1,2158 @@
+[
+    {
+        "index": 1,
+        "si_LK": "කොළඹ",
+        "ta_IN": "‎கொழும்பு",
+        "en_US": "Colombo",
+        "divisions": [
+            {
+                "index": 1,
+                "si_LK": "කොළඹ",
+                "ta_IN": "கொழும்பு",
+                "en_US": "Colombo"
+            },
+            {
+                "index": 2,
+                "si_LK": "කොළොන්නාව",
+                "ta_IN": "கொ‎லொண்ணா‍வை",
+                "en_US": "Kolonnawa"
+            },
+            {
+                "index": 3,
+                "si_LK": "කඩුවෙල",
+                "ta_IN": "கடு‎வெ‍லை",
+                "en_US": "Kaduwela"
+            },
+            {
+                "index": 4,
+                "si_LK": "හෝමගම",
+                "ta_IN": "ஹோமாகம",
+                "en_US": "Homagama"
+            },
+            {
+                "index": 5,
+                "si_LK": "හංවැල්ල",
+                "ta_IN": "ஹங்‎வெல்‍லை",
+                "en_US": "Hanwella"
+            },
+            {
+                "index": 6,
+                "si_LK": "පාදුක්ක",
+                "ta_IN": "பாதுக்‍கை",
+                "en_US": "Padukka"
+            },
+            {
+                "index": 7,
+                "si_LK": "මහරගම",
+                "ta_IN": "மஹரகம",
+                "en_US": "Maharagama"
+            },
+            {
+                "index": 8,
+                "si_LK": "ශ්‍රී ජයවර්ධනපුර කෝට්ටෙ",
+                "ta_IN": "ஸ்ரீ ஜயவர்தணபுர ‍கோட்‍டை",
+                "en_US": "Sri Jayawardanapura Kotte"
+            },
+            {
+                "index": 9,
+                "si_LK": "ශ්තිඹිරිගස්යාය",
+                "ta_IN": "திம்பிரிகஸ்யா‍யை",
+                "en_US": "Thimbirigasyaya"
+            },
+            {
+                "index": 10,
+                "si_LK": "දෙහිවල-ගල්කිස්ස",
+                "ta_IN": "தெஹிவளை-கல்கிஸ்‍ஸ",
+                "en_US": "Dehiwala-Mount Lavinia"
+            },
+            {
+                "index": 11,
+                "si_LK": "රත්මලාන",
+                "ta_IN": "இரத்மழா‍ணை",
+                "en_US": "Ratmalana"
+            },
+            {
+                "index": 12,
+                "si_LK": "මොරටුව",
+                "ta_IN": "மொரட்டு‍வை",
+                "en_US": "Moratuwa"
+            },
+            {
+                "index": 13,
+                "si_LK": "කැස්බෑව",
+                "ta_IN": "‎கெஸ்‍‍பே‍வை",
+                "en_US": "Kesbewa"
+            }
+        ]
+    },
+    {
+        "index": 2,
+        "si_LK": "ගම්පහ",
+        "ta_IN": "கம்‍‍‎ப‍‍ஹ",
+        "en_US": "Gampaha",
+        "divisions": [
+            {
+                "index": 14,
+                "si_LK": "මීගමුව",
+                "ta_IN": "நீர்கொழும்பு",
+                "en_US": "Negombo"
+            },
+            {
+                "index": 15,
+                "si_LK": "කටාන",
+                "ta_IN": "கடா‍ணை",
+                "en_US": "Katana"
+            },
+            {
+                "index": 16,
+                "si_LK": "දිවුලපිටිය",
+                "ta_IN": "திவுலப்பிட்டிய",
+                "en_US": "Divulapitiya"
+            },
+            {
+                "index": 17,
+                "si_LK": "මීරිගම",
+                "ta_IN": "மீரிகமை",
+                "en_US": "Mirigama"
+            },
+            {
+                "index": 18,
+                "si_LK": "මිනුවන්ගොඩ",
+                "ta_IN": "மிணுவாங்‎‎கொ‍டை",
+                "en_US": "Minuwangoda"
+            },
+            {
+                "index": 19,
+                "si_LK": "වත්තල",
+                "ta_IN": "வத்தளை",
+                "en_US": "Wattala"
+            },
+            {
+                "index": 20,
+                "si_LK": "ජා-ඇල",
+                "ta_IN": "ஜா-எல",
+                "en_US": "Ja-Ela"
+            },
+            {
+                "index": 21,
+                "si_LK": "ගම්පහ",
+                "ta_IN": "கம்பஹ",
+                "en_US": "Gampaha"
+            },
+            {
+                "index": 22,
+                "si_LK": "අත්තනගල්ල",
+                "ta_IN": "அத்தணகல்‍லை",
+                "en_US": "Attanagalla"
+            },
+            {
+                "index": 23,
+                "si_LK": "දොම්පෙ",
+                "ta_IN": "‎தொம்‍பே",
+                "en_US": "Dompe"
+            },
+            {
+                "index": 24,
+                "si_LK": "මහර",
+                "ta_IN": "மஹற",
+                "en_US": "Mahara"
+            },
+            {
+                "index": 25,
+                "si_LK": "කැළණිය",
+                "ta_IN": "களணி",
+                "en_US": "Kelaniya"
+            },
+            {
+                "index": 26,
+                "si_LK": "බියගම",
+                "ta_IN": "பியக‍மை",
+                "en_US": "Biyagama"
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "si_LK": "කළුතර",
+        "ta_IN": "களுத்து‍றை",
+        "en_US": "Kalutara",
+        "divisions": [
+            {
+                "index": 27,
+                "si_LK": "පානදුර",
+                "ta_IN": "பாணத்து‍றை",
+                "en_US": "Panadura"
+            },
+            {
+                "index": 28,
+                "si_LK": "බණ්ඩාරගම",
+                "ta_IN": "பண்டாரக‍மை",
+                "en_US": "Bandaragama"
+            },
+            {
+                "index": 29,
+                "si_LK": "හොරණ",
+                "ta_IN": "‎ஹொற‍ணை",
+                "en_US": "Horana"
+            },
+            {
+                "index": 30,
+                "si_LK": "ඉංගිරිය",
+                "ta_IN": "இங்கிரிய",
+                "en_US": "Ingiriya"
+            },
+            {
+                "index": 31,
+                "si_LK": "බුලත්සිංහල",
+                "ta_IN": "புழத்சிங்கள",
+                "en_US": "Bulathsinhala"
+            },
+            {
+                "index": 32,
+                "si_LK": "මදුරාවල",
+                "ta_IN": "மதுரா‎வெள",
+                "en_US": "Madurawela"
+            },
+            {
+                "index": 33,
+                "si_LK": "මිල්ලනිය",
+                "ta_IN": "மில்லணிய",
+                "en_US": "Millaniya"
+            },
+            {
+                "index": 34,
+                "si_LK": "කළුතර",
+                "ta_IN": "களுத்து‍றை",
+                "en_US": "Kalutara"
+            },
+            {
+                "index": 35,
+                "si_LK": "බේරුවල",
+                "ta_IN": "‍‍பேறுவ‍ளை",
+                "en_US": "Beruwala"
+            },
+            {
+                "index": 36,
+                "si_LK": "දොඩම්ගොඩ",
+                "ta_IN": "‎தொடந்தூவை",
+                "en_US": "Dodangoda"
+            },
+            {
+                "index": 37,
+                "si_LK": "මතුගම",
+                "ta_IN": "மத்துக‍மை",
+                "en_US": "Mathugama"
+            },
+            {
+                "index": 38,
+                "si_LK": "අගලවත්ත",
+                "ta_IN": "அகளவத்‍தை",
+                "en_US": "Agalawatta"
+            },
+            {
+                "index": 39,
+                "si_LK": "පාලින්ද නුවර",
+                "ta_IN": "பாலிந்தநுவர",
+                "en_US": "Palindanuwara"
+            },
+            {
+                "index": 40,
+                "si_LK": "වලල්ලාවිට",
+                "ta_IN": "வளள்ளாவிட்ட",
+                "en_US": "Walallavita"
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "si_LK": "මහනුවර",
+        "ta_IN": "கண்டி",
+        "en_US": "Kandy",
+        "divisions": [
+            {
+                "index": 41,
+                "si_LK": "තුම්පනේ",
+                "ta_IN": "தும்பணை‍",
+                "en_US": "Thumpane"
+            },
+            {
+                "index": 42,
+                "si_LK": "පුජාපිටිය",
+                "ta_IN": "பூஜாபிட்டிய",
+                "en_US": "Poojapitiya"
+            },
+            {
+                "index": 43,
+                "si_LK": "අකුරණ",
+                "ta_IN": "அக்குர‍ணை",
+                "en_US": "Akurana"
+            },
+            {
+                "index": 44,
+                "si_LK": "පාතදුම්බර",
+                "ta_IN": "பாத்ததும்ப‍ரை",
+                "en_US": "Pathadumbara"
+            },
+            {
+                "index": 45,
+                "si_LK": "පන්විල",
+                "ta_IN": "பண்வில",
+                "en_US": "Panvila"
+            },
+            {
+                "index": 46,
+                "si_LK": "උඩදුම්බර",
+                "ta_IN": "உடதும்ப‍ரை",
+                "en_US": "Udadumbara"
+            },
+            {
+                "index": 47,
+                "si_LK": "මිනිපේ",
+                "ta_IN": "மினிபே",
+                "en_US": "Minipe"
+            },
+            {
+                "index": 48,
+                "si_LK": "මැදදුම්බර",
+                "ta_IN": "‎மெததும்பர",
+                "en_US": "Medadumbara"
+            },
+            {
+                "index": 49,
+                "si_LK": "කුණ්ඩසාලෙ",
+                "ta_IN": "குண்டசா‍லை",
+                "en_US": "Kundasale"
+            },
+            {
+                "index": 50,
+                "si_LK": "මහනුවර කඩවත් සතර හා ගඟවටකොරළේ",
+                "ta_IN": "கண்டி கடவத்ஸதர, கங்கவட கோரலே",
+                "en_US": "Kandy Four Gravets &amp; Gangawata Korale"
+            },
+            {
+                "index": 51,
+                "si_LK": "හාරිස්පත්තුව",
+                "ta_IN": "ஹரிஸ்பத்துவ",
+                "en_US": "Harispattuwa"
+            },
+            {
+                "index": 52,
+                "si_LK": "හතරලියැද්ද",
+                "ta_IN": "ஹதரழி‎யெந்த",
+                "en_US": "Hatharaliyadda"
+            },
+            {
+                "index": 53,
+                "si_LK": "යටිනුවර",
+                "ta_IN": "யட்டினுவர",
+                "en_US": "Yatinuwara"
+            },
+            {
+                "index": 54,
+                "si_LK": "උඩුනුවර",
+                "ta_IN": "உடுனுவர",
+                "en_US": "Udunuwara"
+            },
+            {
+                "index": 55,
+                "si_LK": "දොළුව",
+                "ta_IN": "‎தொழுவ",
+                "en_US": "Doluwa"
+            },
+            {
+                "index": 56,
+                "si_LK": "පහතහේවාහැට",
+                "ta_IN": "பஹத‍‍ஹேவா‎ஹெட",
+                "en_US": "Pathahewaheta"
+            },
+            {
+                "index": 57,
+                "si_LK": "දෙල්තොට",
+                "ta_IN": "‎தெல்‎தொட்ட",
+                "en_US": "Delthota"
+            },
+            {
+                "index": 58,
+                "si_LK": "උඩපලාත",
+                "ta_IN": "உடபலாத",
+                "en_US": "Udapalatha"
+            },
+            {
+                "index": 59,
+                "si_LK": "ගඟ ඉහළ කොරළේ",
+                "ta_IN": "கங்க இஹல ‍ேகாற‍‍லே",
+                "en_US": "Ganga Ihala Korale"
+            },
+            {
+                "index": 60,
+                "si_LK": "පස්බාගේ කොරළේ",
+                "ta_IN": "பஸ்பா‍கே ‍கோற‍லே",
+                "en_US": "Pasbage Korale"
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "si_LK": "මාතලේ",
+        "ta_IN": "மாத்த‍‍‍ளை",
+        "en_US": "Matale",
+        "divisions": [
+            {
+                "index": 61,
+                "si_LK": "ගලේවෙල",
+                "ta_IN": "கலேவெல",
+                "en_US": "Galewela"
+            },
+            {
+                "index": 62,
+                "si_LK": "දඹුල්ල",
+                "ta_IN": "தம்புல்ல",
+                "en_US": "Dambulla"
+            },
+            {
+                "index": 63,
+                "si_LK": "නාඋල",
+                "ta_IN": "நாஉல",
+                "en_US": "Naula"
+            },
+            {
+                "index": 64,
+                "si_LK": "පල්ලෙපොල",
+                "ta_IN": "பல்லெபொல",
+                "en_US": "Pallepola"
+            },
+            {
+                "index": 65,
+                "si_LK": "යටවත්ත",
+                "ta_IN": "யடவத்த",
+                "en_US": "Yatawatta"
+            },
+            {
+                "index": 66,
+                "si_LK": "මාතලේ",
+                "ta_IN": "மாத்தளை",
+                "en_US": "Matale"
+            },
+            {
+                "index": 67,
+                "si_LK": "අඹන්ගඟ කොරළේ",
+                "ta_IN": "அம்பங்கககோரலே",
+                "en_US": "Ambanganga Korale"
+            },
+            {
+                "index": 68,
+                "si_LK": "ලග්ගල - පල්ලෙගම",
+                "ta_IN": "லக்கல - பல்லேகம",
+                "en_US": "Laggala-Pallegama"
+            },
+            {
+                "index": 69,
+                "si_LK": "විල්ගමුව",
+                "ta_IN": "வில்கமுவ",
+                "en_US": "Wilgamuwa"
+            },
+            {
+                "index": 70,
+                "si_LK": "රත්තොට",
+                "ta_IN": "ரத்தொட",
+                "en_US": "Rattota"
+            },
+            {
+                "index": 71,
+                "si_LK": "උකුවෙල",
+                "ta_IN": "உகுவெல",
+                "en_US": "Ukuwela"
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "si_LK": "නුවරඑළිය",
+        "ta_IN": "நுவ‎ரெளியா",
+        "en_US": "Nuwara Eliya",
+        "divisions": [
+            {
+                "index": 72,
+                "si_LK": "කොත්මලේ",
+                "ta_IN": "‎‎கொத்ம‍லை",
+                "en_US": "Kothmale"
+            },
+            {
+                "index": 73,
+                "si_LK": "හඟුරන්කෙත",
+                "ta_IN": "ஹங்குரங்‎கெத",
+                "en_US": "Hanguranketha"
+            },
+            {
+                "index": 74,
+                "si_LK": "වලපනේ",
+                "ta_IN": "வலப‍‍னே",
+                "en_US": "Walapane"
+            },
+            {
+                "index": 75,
+                "si_LK": "නුවර එළිය",
+                "ta_IN": "நுவ‎ரெளியா",
+                "en_US": "Nuwara Eliya"
+            },
+            {
+                "index": 76,
+                "si_LK": "අඹගමුව",
+                "ta_IN": "அம்பகமுவ",
+                "en_US": "Ambagamuwa"
+            }
+        ]
+    },
+    {
+        "index": 7,
+        "si_LK": "ගාල්ල",
+        "ta_IN": "காலி",
+        "en_US": "Galle",
+        "divisions": [
+            {
+                "index": 77,
+                "si_LK": "බෙන්තොට",
+                "ta_IN": "‎பென்‎தொட்டை",
+                "en_US": "Benthota"
+            },
+            {
+                "index": 78,
+                "si_LK": "බලපිටිය",
+                "ta_IN": "பலபிட்டிய",
+                "en_US": "Balapitiya"
+            },
+            {
+                "index": 79,
+                "si_LK": "කරන්දෙණිය",
+                "ta_IN": "கரந்‎தெனிய",
+                "en_US": "Karandeniya"
+            },
+            {
+                "index": 80,
+                "si_LK": "ඇල්පිටිය",
+                "ta_IN": "எல்பிடி",
+                "en_US": "Elpitiya"
+            },
+            {
+                "index": 81,
+                "si_LK": "නියාගම",
+                "ta_IN": "நியாகம",
+                "en_US": "Niyagama"
+            },
+            {
+                "index": 82,
+                "si_LK": "තවලම",
+                "ta_IN": "தவலம",
+                "en_US": "Thawalama"
+            },
+            {
+                "index": 83,
+                "si_LK": "නෙළුව",
+                "ta_IN": "‎நெழுவ",
+                "en_US": "Neluwa"
+            },
+            {
+                "index": 84,
+                "si_LK": "නාගොඩ",
+                "ta_IN": "நா‎கொ‍டை",
+                "en_US": "Nagoda"
+            },
+            {
+                "index": 85,
+                "si_LK": "බද්දෙගම",
+                "ta_IN": "பத்‍தேகம",
+                "en_US": "Baddegama"
+            },
+            {
+                "index": 86,
+                "si_LK": "වැලිවිටිය - දිවිතුර",
+                "ta_IN": "‎வெலிவிடிய-திவிதுர",
+                "en_US": "Welivitiya-Divithura"
+            },
+            {
+                "index": 87,
+                "si_LK": "අම්බලන්ගොඩ",
+                "ta_IN": "அம்பலாங்‎கொடை",
+                "en_US": "Ambalangoda"
+            },
+            {
+                "index": 88,
+                "si_LK": "හික්කඩුව",
+                "ta_IN": "ஹிக்கடுவை",
+                "en_US": "Hikkaduwa"
+            },
+            {
+                "index": 89,
+                "si_LK": "ගාල්ල කඩවත් සතර",
+                "ta_IN": "காலி கடவத் ஸதர(பிரதேச செயலகப் பிரிவு)",
+                "en_US": "Galle Four Gravets"
+            },
+            {
+                "index": 90,
+                "si_LK": "බෝපෙ පෝද්දල",
+                "ta_IN": "‍‎‍போ‍பே-‎பொத்தல",
+                "en_US": "Bope-Poddala"
+            },
+            {
+                "index": 91,
+                "si_LK": "අක්මීමන",
+                "ta_IN": "அக்மீமண",
+                "en_US": "Akmeemana"
+            },
+            {
+                "index": 92,
+                "si_LK": "යක්කල මුල්ල",
+                "ta_IN": "யக்கலமுல்ல",
+                "en_US": "Yakkalamulla"
+            },
+            {
+                "index": 93,
+                "si_LK": "ඉමදූව",
+                "ta_IN": "இமதூவ",
+                "en_US": "Imaduwa"
+            },
+            {
+                "index": 94,
+                "si_LK": "හබරාදුව",
+                "ta_IN": "ஹபராதூவ",
+                "en_US": "Habaraduwa"
+            }
+        ]
+    },
+    {
+        "index": 8,
+        "si_LK": "මාතර",
+        "ta_IN": "மாத்தறை",
+        "en_US": "Matara",
+        "divisions": [
+            {
+                "index": 95,
+                "si_LK": "පිටබැද්දර",
+                "ta_IN": "பிட்ட‎பெத்தர",
+                "en_US": "Pitabeddara"
+            },
+            {
+                "index": 96,
+                "si_LK": "කොටපොල",
+                "ta_IN": "கொடபொல",
+                "en_US": "Kotapola"
+            },
+            {
+                "index": 97,
+                "si_LK": "පස්ගොඩ",
+                "ta_IN": "பஸ்‎கொட",
+                "en_US": "Pasgoda"
+            },
+            {
+                "index": 98,
+                "si_LK": "මුලටියන",
+                "ta_IN": "முலடியன",
+                "en_US": "Mulatiyana"
+            },
+            {
+                "index": 99,
+                "si_LK": "අතුරලිය",
+                "ta_IN": "அத்து‎ரெளிய",
+                "en_US": "Athuraliya"
+            },
+            {
+                "index": 100,
+                "si_LK": "අකුරැස්ස",
+                "ta_IN": "அக்கு‎ரெஸ்ஸ",
+                "en_US": "Akuressa"
+            },
+            {
+                "index": 101,
+                "si_LK": "වැලිපිටිය",
+                "ta_IN": "வெலிபிடிய",
+                "en_US": "Welipitiya"
+            },
+            {
+                "index": 102,
+                "si_LK": "මාලිම්බඩ",
+                "ta_IN": "மாலிம்பட",
+                "en_US": "Malimbada"
+            },
+            {
+                "index": 103,
+                "si_LK": "කඹුරුපිටිය",
+                "ta_IN": "கம்புறுபிடிய",
+                "en_US": "Kamburupitiya"
+            },
+            {
+                "index": 104,
+                "si_LK": "හක්මන",
+                "ta_IN": "ஹக்மண",
+                "en_US": "Hakmana"
+            },
+            {
+                "index": 105,
+                "si_LK": "කිරින්ද පුහුල්වැල්ල",
+                "ta_IN": "கிரிந்த புஹுல்‎வெல",
+                "en_US": "Kirinda Puhulwella"
+            },
+            {
+                "index": 106,
+                "si_LK": "තිහගොඩ",
+                "ta_IN": "திஹ‎கொட",
+                "en_US": "Thihagoda"
+            },
+            {
+                "index": 107,
+                "si_LK": "වැලිගම",
+                "ta_IN": "வெலிகம",
+                "en_US": "Weligama"
+            },
+            {
+                "index": 108,
+                "si_LK": "මාතර",
+                "ta_IN": "மாத்தறை",
+                "en_US": "Matara Four Gravets"
+            },
+            {
+                "index": 109,
+                "si_LK": "දෙවිනුවර",
+                "ta_IN": "தெவிநுவர",
+                "en_US": "Devinuwara"
+            },
+            {
+                "index": 110,
+                "si_LK": "දික්වැල්ල",
+                "ta_IN": "திக்‎வெல்ல",
+                "en_US": "Dickwella"
+            }
+        ]
+    },
+    {
+        "index": 9,
+        "si_LK": "හම්බන්තොට",
+        "ta_IN": "ஹம்பாந்தோட்‍டை",
+        "en_US": "Hambantota",
+        "divisions": [
+            {
+                "index": 111,
+                "si_LK": "සූරියවැව",
+                "ta_IN": "சூரிய‎வெ‎வெ",
+                "en_US": "Sooriyawewa"
+            },
+            {
+                "index": 112,
+                "si_LK": "ලුණුගම්වෙහෙර",
+                "ta_IN": "லுணுகம்‎வெஹற",
+                "en_US": "Lunugamvehera"
+            },
+            {
+                "index": 113,
+                "si_LK": "තිස්සමහාරාමය",
+                "ta_IN": "திஸ்ஸமஹாராம",
+                "en_US": "Thissamaharama"
+            },
+            {
+                "index": 114,
+                "si_LK": "හමිබන්තොට",
+                "ta_IN": "ஹம்பந்‍தோட்டை",
+                "en_US": "Hambantota"
+            },
+            {
+                "index": 115,
+                "si_LK": "අම්බලන්තොට",
+                "ta_IN": "அம்பலாந்‍தோட்டை",
+                "en_US": "Ambalantota"
+            },
+            {
+                "index": 116,
+                "si_LK": "අඟුණුකොළපැලැස්ස",
+                "ta_IN": "அங்குண‎கொல‎பெ‎லெஸ்ஸ",
+                "en_US": "Angunakolapelessa"
+            },
+            {
+                "index": 117,
+                "si_LK": "වීරකැටිය",
+                "ta_IN": "வீரகெட்டிய",
+                "en_US": "Weeraketiya"
+            },
+            {
+                "index": 118,
+                "si_LK": "කටුවන",
+                "ta_IN": "கடுவண",
+                "en_US": "Katuwana"
+            },
+            {
+                "index": 119,
+                "si_LK": "උක්වෙල",
+                "ta_IN": "ஓ‍‍‍‍கே‎வெல",
+                "en_US": "Okewela"
+            },
+            {
+                "index": 120,
+                "si_LK": "බෙලිඅත්ත",
+                "ta_IN": "‎பெலியத்த",
+                "en_US": "Beliatta"
+            },
+            {
+                "index": 121,
+                "si_LK": "තංගල්ල",
+                "ta_IN": "தங்கல்லை",
+                "en_US": "Tangalle"
+            }
+        ]
+    },
+    {
+        "index": 10,
+        "si_LK": "යාපනය",
+        "ta_IN": "யாழ்பாணம்",
+        "en_US": "Jaffna",
+        "divisions": [
+            {
+                "index": 122,
+                "si_LK": "කයිට්ස්",
+                "ta_IN": "தீவு வடக்கு (கை‍ட்ஸ்)",
+                "en_US": "Island North (Kayts)"
+            },
+            {
+                "index": 123,
+                "si_LK": "වලිකාමම් බටහිර",
+                "ta_IN": "வலிகாமம் ‍மேற்கு (சங்கனை)",
+                "en_US": "Valikamam West (Chankanai)"
+            },
+            {
+                "index": 124,
+                "si_LK": "වලිකාමම් නිරිත",
+                "ta_IN": "வலிகாமம் ‎தென்‍மேற்கு (சந்திலிப்பாய்)",
+                "en_US": "Valikamam South-West (Sandilipay)"
+            },
+            {
+                "index": 125,
+                "si_LK": "වලිකාමම් උතුර",
+                "ta_IN": "வலிகாமம் வடக்கு (‎தெல்லிப்பாலை)",
+                "en_US": "Valikamam North (Tellipallai)"
+            },
+            {
+                "index": 126,
+                "si_LK": "වලිකාමම් දකුණ",
+                "ta_IN": "வலிகாமம் தெற்கு (உடுவில்)",
+                "en_US": "Valikamam South (Uduvil)"
+            },
+            {
+                "index": 127,
+                "si_LK": "වලිකාමම් නැගෙනහිර",
+                "ta_IN": "வலிகாமம் கிழக்கு (‍கோப்பாய்)",
+                "en_US": "Valikamam East (Kopay)"
+            },
+            {
+                "index": 128,
+                "si_LK": "වලිකාමම් නිරිත (කරවෙඩ්ඩි)",
+                "ta_IN": "வடமராச்சி ‎தென்‍மேற்கு (கர‎வெட்டி)",
+                "en_US": "Vadamaradchi South-West (Karaveddy)"
+            },
+            {
+                "index": 129,
+                "si_LK": "වඩමාරච්චි නැගෙනහිර",
+                "ta_IN": "வடமராச்சி கிழக்கு ( மருத்தங்‍கேணி)",
+                "en_US": "Vadamaradchi East (Maruthnkerny)"
+            },
+            {
+                "index": 130,
+                "si_LK": "වඩමිරච්චි උතුර",
+                "ta_IN": "வடமராச்சி வடக்கு (‍பேதுருமுணை)",
+                "en_US": "Vadamaradchi North (Point Pedro)"
+            },
+            {
+                "index": 131,
+                "si_LK": "තෙන්මාරච්චි",
+                "ta_IN": "‎தென்மராச்சி (சாவக்கச்‍சேரி)",
+                "en_US": "Thenmaradchi (Chavakachcheri)"
+            },
+            {
+                "index": 132,
+                "si_LK": "නල්ලූර්",
+                "ta_IN": "நல்லூர்",
+                "en_US": "Nallur"
+            },
+            {
+                "index": 133,
+                "si_LK": "යාපනය",
+                "ta_IN": "யாழ்ப்பாணம்",
+                "en_US": "Jaffna"
+            },
+            {
+                "index": 134,
+                "si_LK": "වෙලානෙයි",
+                "ta_IN": "தீவு ‎தெற்கு (‍வேலணி)",
+                "en_US": "Island South (Velanai)"
+            },
+            {
+                "index": 135,
+                "si_LK": "ඩෙල්ෆ්",
+                "ta_IN": "‎டெல்ப்",
+                "en_US": "Delft"
+            }
+        ]
+    },
+    {
+        "index": 11,
+        "si_LK": "මන්නාරම",
+        "ta_IN": "மன்னார்",
+        "en_US": "Mannar",
+        "divisions": [
+            {
+                "index": 136,
+                "si_LK": "මන්නාරම නගරය",
+                "ta_IN": "மன்னார் நகரம்",
+                "en_US": "Mannar Town"
+            },
+            {
+                "index": 137,
+                "si_LK": "මන්තායි බටහිර",
+                "ta_IN": "மாந்தை ‍மேற்கு",
+                "en_US": "Manthai West"
+            },
+            {
+                "index": 138,
+                "si_LK": "මඩු",
+                "ta_IN": "மடு",
+                "en_US": "Madhu"
+            },
+            {
+                "index": 139,
+                "si_LK": "නානාධන්",
+                "ta_IN": "நனாதன்",
+                "en_US": "Nanaddan"
+            },
+            {
+                "index": 140,
+                "si_LK": "මුසලි",
+                "ta_IN": "முசலி",
+                "en_US": "Musalai"
+            }
+        ]
+    },
+    {
+        "index": 12,
+        "si_LK": "වව්නියාව",
+        "ta_IN": "வவுனியா",
+        "en_US": "Vavuniya",
+        "divisions": [
+            {
+                "index": 141,
+                "si_LK": "වවුනියා උතුර",
+                "ta_IN": "வவுனியா வடக்கு",
+                "en_US": "Vavuniya North"
+            },
+            {
+                "index": 142,
+                "si_LK": "වවුනියා දකුණ",
+                "ta_IN": "வவுனியா ‎தெற்கு",
+                "en_US": "Vavuniya South"
+            },
+            {
+                "index": 143,
+                "si_LK": "වවුනියා",
+                "ta_IN": "வவுனியா",
+                "en_US": "Vavuniya"
+            },
+            {
+                "index": 144,
+                "si_LK": "වෙන්ගලචෙඩ්ඩිකුලම්",
+                "ta_IN": "‎வெங்கல‎ச்செட்டிக்குளம்",
+                "en_US": "Vengalacheddikulam"
+            }
+        ]
+    },
+    {
+        "index": 13,
+        "si_LK": "මුලතිව්",
+        "ta_IN": "முள்ளைத்தீவு",
+        "en_US": "Mullaitivu",
+        "divisions": [
+            {
+                "index": 145,
+                "si_LK": "තුනුක්කායි",
+                "ta_IN": "துணுக்கை",
+                "en_US": "Thunukkai"
+            },
+            {
+                "index": 146,
+                "si_LK": "මන්තායි නැගෙනහිර",
+                "ta_IN": "மாந்தை கிழக்கு",
+                "en_US": "Manthai East"
+            },
+            {
+                "index": 147,
+                "si_LK": "පුදුකුඩියිරිප්පු",
+                "ta_IN": "புதுக்குடியிருப்பு",
+                "en_US": "Puthukudiyiruppu"
+            },
+            {
+                "index": 148,
+                "si_LK": "ඔඩ්ඩුසුදාන්",
+                "ta_IN": "ஒட்டுச்சுட்டாண்",
+                "en_US": "Oddusuddan"
+            },
+            {
+                "index": 149,
+                "si_LK": "මැරිටයිම්පත්තු",
+                "ta_IN": "மரிதி‍மேப்பட்டு",
+                "en_US": "Maritimepattu"
+            }
+        ]
+    },
+    {
+        "index": 14,
+        "si_LK": "කිලිනොච්චි",
+        "ta_IN": "கிளி‎‎நொச்சி",
+        "en_US": "Kilinochchi",
+        "divisions": [
+            {
+                "index": 150,
+                "si_LK": "පච්චිලෙයිපල්ලෙයි",
+                "ta_IN": "பச்சிலைப்பல்லி",
+                "en_US": "Pachchilaipalli"
+            },
+            {
+                "index": 151,
+                "si_LK": "කන්දවලායි",
+                "ta_IN": "கந்தவளை",
+                "en_US": "Kandavalai"
+            },
+            {
+                "index": 152,
+                "si_LK": "කරච්චි",
+                "ta_IN": "கரச்சி",
+                "en_US": "Karachchi"
+            },
+            {
+                "index": 153,
+                "si_LK": "පුනාකරි",
+                "ta_IN": "பூணாகரி",
+                "en_US": "Poonakary"
+            }
+        ]
+    },
+    {
+        "index": 15,
+        "si_LK": "මඩකලපුව",
+        "ta_IN": "மட்டக்களப்பு",
+        "en_US": "Batticaloa",
+        "divisions": [
+            {
+                "index": 154,
+                "si_LK": "කෝරලේපත්තු උතුර",
+                "ta_IN": "‍‍‎‍‍‍‎‍கோரலைப்பத்து வடக்கு",
+                "en_US": "Koralai Pattu North"
+            },
+            {
+                "index": 155,
+                "si_LK": "කෝරලේපත්තු බටහිර",
+                "ta_IN": "‍‍‎‍கோரலைப்பத்து ‍மேற்கு ( ஓட்டமாவடி)",
+                "en_US": "Koralai Pattu West (Oddamavadi)"
+            },
+            {
+                "index": 156,
+                "si_LK": "කෝරලේපත්තු",
+                "ta_IN": "‍‍‎‍கோரலைப்பத்து (வாழச்சேனை)",
+                "en_US": "Koralai Pattu (Valachchenai)"
+            },
+            {
+                "index": 157,
+                "si_LK": "එරාවුර්පත්තු",
+                "ta_IN": "ஏறாவூர் பட்டு",
+                "en_US": "Eravur Pattu"
+            },
+            {
+                "index": 158,
+                "si_LK": "එරාවුර් නගරය",
+                "ta_IN": "ஏறாவூர் நகரம்",
+                "en_US": "Eravur Town"
+            },
+            {
+                "index": 159,
+                "si_LK": "මන්මුනායි උතුර",
+                "ta_IN": "மண்முணை வடக்கு",
+                "en_US": "Manmunai North"
+            },
+            {
+                "index": 160,
+                "si_LK": "මන්මුනායි බටහිර",
+                "ta_IN": "மண்முணை ‍மேற்கு",
+                "en_US": "Manmunai West"
+            },
+            {
+                "index": 161,
+                "si_LK": "කාත්තන්කුඩි",
+                "ta_IN": "காத்தாங்குடி",
+                "en_US": "Kattankudy"
+            },
+            {
+                "index": 162,
+                "si_LK": "මන්මුනායිපත්තු",
+                "ta_IN": "மண்முணை பட்டு (அரைப்பட்டை)",
+                "en_US": "Manmunai Pattu (Araipattai)"
+            },
+            {
+                "index": 163,
+                "si_LK": "මන්මුනායි නිරිත",
+                "ta_IN": "மண்முணை ‎தென்‍மேற்கு",
+                "en_US": "Manmunai South-West"
+            },
+            {
+                "index": 164,
+                "si_LK": "පෝරතිවිපත්තු",
+                "ta_IN": "‍போரதீவு பட்டு",
+                "en_US": "Porativu Pattu"
+            },
+            {
+                "index": 165,
+                "si_LK": "මන්මුනෙයි දකුණ හා එරුවිල්පත්තු",
+                "ta_IN": "மண்முணை ‎தெற்கு,எருவில்",
+                "en_US": "Manmunai South,Eruvil Pattu"
+            },
+            {
+                "index": 166,
+                "si_LK": "කෝරළේපත්තු දකුණ",
+                "ta_IN": "‍‍‍‍‎‍கோரலைப்பத்து ‎தெற்கு (கிராண்)",
+                "en_US": "Koralai Pattu South (Kiran)"
+            }
+        ]
+    },
+    {
+        "index": 16,
+        "si_LK": "අම්පාර",
+        "ta_IN": "அம்பா‍‍றை",
+        "en_US": "Ampara",
+        "divisions": [
+            {
+                "index": 167,
+                "si_LK": "දෙහිඅත්තකන්ඩිය",
+                "ta_IN": "‎தெஹிஅத்தக்கண்டிய",
+                "en_US": "Dehiattakandiya"
+            },
+            {
+                "index": 168,
+                "si_LK": "පදියතලාව",
+                "ta_IN": "பதியதலாவ",
+                "en_US": "Padiyathalawa"
+            },
+            {
+                "index": 169,
+                "si_LK": "මහඔය",
+                "ta_IN": "மஹாஓயா",
+                "en_US": "Mahaoya"
+            },
+            {
+                "index": 170,
+                "si_LK": "උහන",
+                "ta_IN": "உஹண",
+                "en_US": "Uhana"
+            },
+            {
+                "index": 171,
+                "si_LK": "අම්පාර",
+                "ta_IN": "அம்பாறை",
+                "en_US": "Ampara"
+            },
+            {
+                "index": 172,
+                "si_LK": "නාවිතන්විලි",
+                "ta_IN": "நவிதண்‎‍வேலி",
+                "en_US": "Navithanveli"
+            },
+            {
+                "index": 173,
+                "si_LK": "සමන්තුරෙයි",
+                "ta_IN": "சம்மாந்துரை",
+                "en_US": "Samanthurai"
+            },
+            {
+                "index": 174,
+                "si_LK": "කල්මුනෙයි",
+                "ta_IN": "கல்முனை",
+                "en_US": "Kalmunai"
+            },
+            {
+                "index": 175,
+                "si_LK": "සෙයින්තමරතු",
+                "ta_IN": "சாய்ந்தமருது",
+                "en_US": "Sainthamarathu"
+            },
+            {
+                "index": 176,
+                "si_LK": "කරතිවු",
+                "ta_IN": "காரைத்தீவு",
+                "en_US": "Karativu"
+            },
+            {
+                "index": 177,
+                "si_LK": "නිනිතවූර්",
+                "ta_IN": "நிந்தவூர்",
+                "en_US": "Ninthavur"
+            },
+            {
+                "index": 178,
+                "si_LK": "අඩ්ඩාලච්චේනායි",
+                "ta_IN": "அட்டால‍ச்சேனை",
+                "en_US": "Addalachchenai"
+            },
+            {
+                "index": 179,
+                "si_LK": "එරගම",
+                "ta_IN": "எரகம",
+                "en_US": "Eragama"
+            },
+            {
+                "index": 180,
+                "si_LK": "අක්කරෙයිපත්තු",
+                "ta_IN": "அக்கரைப்பத்து",
+                "en_US": "Akkaraipattu"
+            },
+            {
+                "index": 181,
+                "si_LK": "අලයඩිවෙම්බු",
+                "ta_IN": "அலையடி‍வேம்பு",
+                "en_US": "Alayadiwembu"
+            },
+            {
+                "index": 182,
+                "si_LK": "දමන",
+                "ta_IN": "தமண",
+                "en_US": "Damana"
+            },
+            {
+                "index": 183,
+                "si_LK": "තිරුක්කෝවිල්",
+                "ta_IN": "திருக்‍கோவில்",
+                "en_US": "Thirukkovil"
+            },
+            {
+                "index": 184,
+                "si_LK": "පොතුවිල්",
+                "ta_IN": "‎பொத்துவில்",
+                "en_US": "Pothuvil"
+            },
+            {
+                "index": 185,
+                "si_LK": "ලාහුගල",
+                "ta_IN": "லாஹுகலை",
+                "en_US": "Lahugala"
+            }
+        ]
+    },
+    {
+        "index": 17,
+        "si_LK": "ත්‍රිකුණාමලය",
+        "ta_IN": "திரு‍கோண‍மலை",
+        "en_US": "Trincomalee",
+        "divisions": [
+            {
+                "index": 186,
+                "si_LK": "පදවි ශ්‍රි පුර",
+                "ta_IN": "பதவி ஸ்ரீ புர",
+                "en_US": "Padavi Sri Pura"
+            },
+            {
+                "index": 187,
+                "si_LK": "කුච්චවේලි",
+                "ta_IN": "குச்ச‍வேலி",
+                "en_US": "Kuchchaveli"
+            },
+            {
+                "index": 188,
+                "si_LK": "ගෝමරන්කඩවල",
+                "ta_IN": "‍கோமரங்கடவல",
+                "en_US": "Gomarankadawala"
+            },
+            {
+                "index": 189,
+                "si_LK": "මොරවැව",
+                "ta_IN": "‎மொற‎வெவ",
+                "en_US": "Morawewa"
+            },
+            {
+                "index": 190,
+                "si_LK": "ත්‍රිකුණාමලය නගරය හා කඩවත්",
+                "ta_IN": "திரு‍கோணமலை நகரம்",
+                "en_US": "Trincomalee Town and Gravets"
+            },
+            {
+                "index": 191,
+                "si_LK": "තඔලගමුව",
+                "ta_IN": "தம்பலகமுவ",
+                "en_US": "Thambalagamuwa"
+            },
+            {
+                "index": 192,
+                "si_LK": "කන්තලේ",
+                "ta_IN": "கந்தளாய்",
+                "en_US": "Kantalai"
+            },
+            {
+                "index": 193,
+                "si_LK": "කින්නියා",
+                "ta_IN": "கின்னியா",
+                "en_US": "Kinniya"
+            },
+            {
+                "index": 194,
+                "si_LK": "මුත්තූර්",
+                "ta_IN": "மூதூர்",
+                "en_US": "Muttur"
+            },
+            {
+                "index": 195,
+                "si_LK": "සේරුවිල",
+                "ta_IN": "‍சேருவில்",
+                "en_US": "Seruvila"
+            },
+            {
+                "index": 196,
+                "si_LK": "වෙරුගල්",
+                "ta_IN": "ඉච්චලම්පත්තු",
+                "en_US": "‎வெருகல் (இச்சிழம்பத்து)"
+            }
+        ]
+    },
+    {
+        "index": 18,
+        "si_LK": "කුරුණෑගල",
+        "ta_IN": "குருணாக‍லை",
+        "en_US": "Kurunegala",
+        "divisions": [
+            {
+                "index": 197,
+                "si_LK": "ගිරිබාව",
+                "ta_IN": "கிரிபாவ",
+                "en_US": "Giribawa"
+            },
+            {
+                "index": 198,
+                "si_LK": "ගල්ගමුව",
+                "ta_IN": "கல்கமுவ",
+                "en_US": "Galgamuwa"
+            },
+            {
+                "index": 199,
+                "si_LK": "ඇහැටුවැව",
+                "ta_IN": "எ‎‎ஹெடு‎வெவ",
+                "en_US": "Ehetuwewa"
+            },
+            {
+                "index": 200,
+                "si_LK": "අඹන්පොළ",
+                "ta_IN": "அம்பண்‎பொல",
+                "en_US": "Ambanpola"
+            },
+            {
+                "index": 201,
+                "si_LK": "කොටවෙහෙර",
+                "ta_IN": "கொடவெஹெர",
+                "en_US": "Kotavehera"
+            },
+            {
+                "index": 202,
+                "si_LK": "රස්නායකපුර",
+                "ta_IN": "ரஸ்நாயக்கபுர",
+                "en_US": "Rasnayakapura"
+            },
+            {
+                "index": 203,
+                "si_LK": "නිකවෙරටිය",
+                "ta_IN": "நிக்க‎வெரட்டிய",
+                "en_US": "Nikaweratiya"
+            },
+            {
+                "index": 204,
+                "si_LK": "මහව",
+                "ta_IN": "மஹவ",
+                "en_US": "Mahawa"
+            },
+            {
+                "index": 205,
+                "si_LK": "පොල්පිතිගම",
+                "ta_IN": "பொல்பிதிகம",
+                "en_US": "Polpithigama"
+            },
+            {
+                "index": 206,
+                "si_LK": "ඉබ්බාගමුව",
+                "ta_IN": "இப்பாகமுவ",
+                "en_US": "Ibbagamuwa"
+            },
+            {
+                "index": 207,
+                "si_LK": "ගනේවත්ත",
+                "ta_IN": "க‍னேவத்த",
+                "en_US": "Ganewatta"
+            },
+            {
+                "index": 208,
+                "si_LK": "වාරියපොල",
+                "ta_IN": "வாரிய‎பொல",
+                "en_US": "Wariyapola"
+            },
+            {
+                "index": 209,
+                "si_LK": "කොබෙයිගනේ",
+                "ta_IN": "கொபெய்கனே",
+                "en_US": "Kobeigane"
+            },
+            {
+                "index": 210,
+                "si_LK": "බිංගිරිය",
+                "ta_IN": "பிங்கிரிய",
+                "en_US": "Bingiriya"
+            },
+            {
+                "index": 211,
+                "si_LK": "පඩුවස්නුවර",
+                "ta_IN": "பண்டுவஸ்நுவர",
+                "en_US": "Panduwasnuwara"
+            },
+            {
+                "index": 212,
+                "si_LK": "කටුපොත",
+                "ta_IN": "கடு‎பொத",
+                "en_US": "Katupotha"
+            },
+            {
+                "index": 213,
+                "si_LK": "බමුණාකොටුව",
+                "ta_IN": "பமுண‎கொட்டுவ",
+                "en_US": "Bamunakotuwa"
+            },
+            {
+                "index": 214,
+                "si_LK": "මාස්පොත",
+                "ta_IN": "மஸ்‎பொத",
+                "en_US": "Maspotha"
+            },
+            {
+                "index": 215,
+                "si_LK": "කුරුණෑගල",
+                "ta_IN": "குருணாக‍லை",
+                "en_US": "Kurunegala"
+            },
+            {
+                "index": 216,
+                "si_LK": "මල්ලවපිටිය",
+                "ta_IN": "மல்லவபிட்டிய",
+                "en_US": "Mallawapitiya"
+            },
+            {
+                "index": 217,
+                "si_LK": "මාවතගම",
+                "ta_IN": "மாவத்தகம",
+                "en_US": "Mawathagama"
+            },
+            {
+                "index": 218,
+                "si_LK": "රිදීගම",
+                "ta_IN": "ரிதீகம",
+                "en_US": "Rideegama"
+            },
+            {
+                "index": 219,
+                "si_LK": "වීරඹුගෙදර",
+                "ta_IN": "வீரம்பு‎கெதர",
+                "en_US": "Weerambugedara"
+            },
+            {
+                "index": 220,
+                "si_LK": "කුළියාපිටිය නැගෙනහිර",
+                "ta_IN": "குளியாபிட்டிய கிழக்கு",
+                "en_US": "Kuliyapitiya East"
+            },
+            {
+                "index": 221,
+                "si_LK": "කුළියාපිටිය බටහිර",
+                "ta_IN": "குளியாபிட்டிய ‍மேற்கு",
+                "en_US": "Kuliyapitiya West"
+            },
+            {
+                "index": 222,
+                "si_LK": "උඩුබද්දාව",
+                "ta_IN": "உடுபத்தாவ",
+                "en_US": "Udubaddawa"
+            },
+            {
+                "index": 223,
+                "si_LK": "පන්නල",
+                "ta_IN": "பன்னல",
+                "en_US": "Pannala"
+            },
+            {
+                "index": 224,
+                "si_LK": "නාරම්මල",
+                "ta_IN": "நாரம்மல",
+                "en_US": "Narammala"
+            },
+            {
+                "index": 225,
+                "si_LK": "අලව්ව",
+                "ta_IN": "அலவ்வ",
+                "en_US": "Alawwa"
+            },
+            {
+                "index": 226,
+                "si_LK": "පොල්ගහවෙල",
+                "ta_IN": "பொல்கஹவெல",
+                "en_US": "Polgahawela"
+            }
+        ]
+    },
+    {
+        "index": 19,
+        "si_LK": "පුත්තලම",
+        "ta_IN": "புத்தளம்",
+        "en_US": "Puttalam",
+        "divisions": [
+            {
+                "index": 227,
+                "si_LK": "කල්පිටිය",
+                "ta_IN": "கல்பிடிய",
+                "en_US": "Kalpitiya"
+            },
+            {
+                "index": 228,
+                "si_LK": "වනාතවිල්ලුව",
+                "ta_IN": "வனாத்தவில்லுவ",
+                "en_US": "Vanathavilluwa"
+            },
+            {
+                "index": 229,
+                "si_LK": "කරුවලගස්වැව",
+                "ta_IN": "கருவலகஸ்‎வெவ",
+                "en_US": "Karuwalagaswewa"
+            },
+            {
+                "index": 230,
+                "si_LK": "නවගත්තේගම",
+                "ta_IN": "நவகத்‍தேகம",
+                "en_US": "Nawagattegama"
+            },
+            {
+                "index": 231,
+                "si_LK": "පුත්තලම",
+                "ta_IN": "புத்தளம்",
+                "en_US": "Puttalam"
+            },
+            {
+                "index": 232,
+                "si_LK": "මුන්දලම",
+                "ta_IN": "முந்தலம்",
+                "en_US": "Mundalama"
+            },
+            {
+                "index": 233,
+                "si_LK": "මහකුඹුක්කඩවල",
+                "ta_IN": "மஹகும்புக்கடவல",
+                "en_US": "Mahakumbukkadawala"
+            },
+            {
+                "index": 234,
+                "si_LK": "ආනමඩුව",
+                "ta_IN": "ஆணமடுவ",
+                "en_US": "Anamaduwa"
+            },
+            {
+                "index": 235,
+                "si_LK": "පල්ලම",
+                "ta_IN": "பல்லம",
+                "en_US": "Pallama"
+            },
+            {
+                "index": 236,
+                "si_LK": "ආරච්චිකට්ටුව",
+                "ta_IN": "ஆரச்சிகட்டுவ",
+                "en_US": "Arachchikattuwa"
+            },
+            {
+                "index": 237,
+                "si_LK": "හලාවත",
+                "ta_IN": "சிலாபம்",
+                "en_US": "Chilaw"
+            },
+            {
+                "index": 238,
+                "si_LK": "මාදම්පෙ",
+                "ta_IN": "மாதம்‍பே",
+                "en_US": "Madampe"
+            },
+            {
+                "index": 239,
+                "si_LK": "මහවැව",
+                "ta_IN": "மஹா‎வெவ",
+                "en_US": "Mahawewa"
+            },
+            {
+                "index": 240,
+                "si_LK": "නාත්තන්ඩිය",
+                "ta_IN": "நாத்தண்டிய",
+                "en_US": "Nattandiya"
+            },
+            {
+                "index": 241,
+                "si_LK": "වෙන්නප්පුව",
+                "ta_IN": "வெண்ணப்புவ",
+                "en_US": "Wennappuwa"
+            },
+            {
+                "index": 242,
+                "si_LK": "දංකොටුව",
+                "ta_IN": "தங்‎‎கொட்டுவ",
+                "en_US": "Dankotuwa"
+            }
+        ]
+    },
+    {
+        "index": 20,
+        "si_LK": "අනුරාධපුරය",
+        "ta_IN": "அநுராதபுரம்",
+        "en_US": "Anuradhapura",
+        "divisions": [
+            {
+                "index": 243,
+                "si_LK": "පදවිය",
+                "ta_IN": "பதவிய",
+                "en_US": "Padaviya"
+            },
+            {
+                "index": 244,
+                "si_LK": "තැබිතිගොල්ලෑව",
+                "ta_IN": "‎‎கெபித்தி‎கொல்‍லேவ",
+                "en_US": "Kebithigollewa"
+            },
+            {
+                "index": 245,
+                "si_LK": "මැදවච්චිය",
+                "ta_IN": "‎மெதவச்சிய",
+                "en_US": "Medawachchiya"
+            },
+            {
+                "index": 246,
+                "si_LK": "මහවිලච්චිය",
+                "ta_IN": "மஹவிலச்சிய",
+                "en_US": "Mahavilachchiya"
+            },
+            {
+                "index": 247,
+                "si_LK": "නුවරගම් පළාත මධ්‍යම",
+                "ta_IN": "மத்திய நுவரகம் பலாத்த",
+                "en_US": "Nuwaragam Palatha Central"
+            },
+            {
+                "index": 248,
+                "si_LK": "රඹෑව",
+                "ta_IN": "ரம்பேவ",
+                "en_US": "Rambewa"
+            },
+            {
+                "index": 249,
+                "si_LK": "කහටගස්දිගිලිය",
+                "ta_IN": "கஹட்டகஸ்திகிலிய",
+                "en_US": "Kahatagasdigiliya"
+            },
+            {
+                "index": 250,
+                "si_LK": "හොරොව්පතාන",
+                "ta_IN": "‎ஹொ‎றொவ்பதாண",
+                "en_US": "Horowpothana"
+            },
+            {
+                "index": 251,
+                "si_LK": "ගලෙන්බිදුනුවැව",
+                "ta_IN": "க‎லெண்பிந்துணு‎வெவ",
+                "en_US": "Galenbindunuwewa"
+            },
+            {
+                "index": 252,
+                "si_LK": "මිහින්තලේ",
+                "ta_IN": "மிஹிந்த‍லை",
+                "en_US": "Mihinthale"
+            },
+            {
+                "index": 253,
+                "si_LK": "නුවරගම් පළාත නැගෙනහිර",
+                "ta_IN": "கிழக்கு நுவரகம் பலாத்த",
+                "en_US": "Nuwaragam Palatha East"
+            },
+            {
+                "index": 254,
+                "si_LK": "නාච්චදුව",
+                "ta_IN": "நாச்சதூ‍வை",
+                "en_US": "Nachchadoowa"
+            },
+            {
+                "index": 255,
+                "si_LK": "නොච්චියාගම",
+                "ta_IN": "‎நொச்சியாகம",
+                "en_US": "Nochchiyagama"
+            },
+            {
+                "index": 256,
+                "si_LK": "රාජාංගනය",
+                "ta_IN": "இராஜ்ஜாங்கணய",
+                "en_US": "Rajanganaya"
+            },
+            {
+                "index": 257,
+                "si_LK": "තඹුත්තෙගම",
+                "ta_IN": "தம்புத்‍தேகம",
+                "en_US": "Thambuttegama"
+            },
+            {
+                "index": 258,
+                "si_LK": "තලාව",
+                "ta_IN": "தலாவ",
+                "en_US": "Thalawa"
+            },
+            {
+                "index": 259,
+                "si_LK": "තිරිප්පනේ",
+                "ta_IN": "திரப்ப‍ணே",
+                "en_US": "Thirappane"
+            },
+            {
+                "index": 260,
+                "si_LK": "කැකිරාව",
+                "ta_IN": "‎கெகிராவ",
+                "en_US": "Kekirawa"
+            },
+            {
+                "index": 261,
+                "si_LK": "පලුගස්වැව",
+                "ta_IN": "பலுகஸ்‎வெவ",
+                "en_US": "Palugaswewa"
+            },
+            {
+                "index": 262,
+                "si_LK": "ඉපලෝගම",
+                "ta_IN": "இப‍லோகம",
+                "en_US": "Ipalogama"
+            },
+            {
+                "index": 263,
+                "si_LK": "ගල්නෑව",
+                "ta_IN": "கல்‍ணேவ",
+                "en_US": "Galnewa"
+            },
+            {
+                "index": 264,
+                "si_LK": "පලාගල",
+                "ta_IN": "பலாகல",
+                "en_US": "Palagala"
+            },
+            {
+                "index": 265,
+                "si_LK": "වැලිඔය",
+                "ta_IN": "‎வெலிஓய",
+                "en_US": "Welioya"
+            }
+        ]
+    },
+    {
+        "index": 21,
+        "si_LK": "පොළොන්නරුව",
+        "ta_IN": "‎பொலண்ணரு‍வை",
+        "en_US": "Polonnaruwa",
+        "divisions": [
+            {
+                "index": 266,
+                "si_LK": "හිඟුරක්ගොඩ",
+                "ta_IN": "ஹிங்குரக்‎கொடை‍",
+                "en_US": "Hingurakgoda"
+            },
+            {
+                "index": 267,
+                "si_LK": "මැදිරිගිරිය",
+                "ta_IN": "‎மெதிரிகிரிய",
+                "en_US": "Medirigiriya"
+            },
+            {
+                "index": 268,
+                "si_LK": "ලංකාපුර",
+                "ta_IN": "லங்காபுர",
+                "en_US": "Lankapura"
+            },
+            {
+                "index": 269,
+                "si_LK": "වැලිකන්ද",
+                "ta_IN": "‎வெலிகந்த",
+                "en_US": "Welikanda"
+            },
+            {
+                "index": 270,
+                "si_LK": "දිඹුලාගල",
+                "ta_IN": "திம்புலாகல",
+                "en_US": "Dimbulagala"
+            },
+            {
+                "index": 271,
+                "si_LK": "තමන්කඩුව",
+                "ta_IN": "தமண்கடுவ",
+                "en_US": "Thamankaduwa"
+            },
+            {
+                "index": 272,
+                "si_LK": "ඇලහැර",
+                "ta_IN": "எல‎ஹெற",
+                "en_US": "Elahera"
+            }
+        ]
+    },
+    {
+        "index": 22,
+        "si_LK": "බදුල්ල",
+        "ta_IN": "பது‍ளை",
+        "en_US": "Badulla",
+        "divisions": [
+            {
+                "index": 273,
+                "si_LK": "මහියංගනය",
+                "ta_IN": "மஹியங்க‍ணை",
+                "en_US": "Mahiyanganaya"
+            },
+            {
+                "index": 274,
+                "si_LK": "රිදීමාලියද්ද",
+                "ta_IN": "ரிதீமாலியத்த",
+                "en_US": "Rideemaliyadda"
+            },
+            {
+                "index": 275,
+                "si_LK": "මීගහකිවුල",
+                "ta_IN": "மீகஹகிவுல",
+                "en_US": "Meegahakivula"
+            },
+            {
+                "index": 276,
+                "si_LK": "කන්දකැටිය",
+                "ta_IN": "கந்த‎கெட்டிய",
+                "en_US": "Kandaketiya"
+            },
+            {
+                "index": 277,
+                "si_LK": "සොරණතොට",
+                "ta_IN": "‎சொறண‎தொட",
+                "en_US": "Soranathota"
+            },
+            {
+                "index": 278,
+                "si_LK": "පස්සර",
+                "ta_IN": "பச‍ரை",
+                "en_US": "Passara"
+            },
+            {
+                "index": 279,
+                "si_LK": "ලුණුගල",
+                "ta_IN": "லுணுக‍லை",
+                "en_US": "Lunugala"
+            },
+            {
+                "index": 280,
+                "si_LK": "බදුල්ල",
+                "ta_IN": "பதுளை",
+                "en_US": "Badulla"
+            },
+            {
+                "index": 281,
+                "si_LK": "හාලිඇල",
+                "ta_IN": "ஹாலி-எல",
+                "en_US": "Hali-Ela"
+            },
+            {
+                "index": 282,
+                "si_LK": "ඌව-පරණගම",
+                "ta_IN": "ஊவா-பரணகம",
+                "en_US": "Uva-Paranagama"
+            },
+            {
+                "index": 283,
+                "si_LK": "වැලිමඩ",
+                "ta_IN": "‎வெலிம‍டை",
+                "en_US": "Welimada"
+            },
+            {
+                "index": 284,
+                "si_LK": "බණ්ඩාරවෙල",
+                "ta_IN": "பண்டாரவளை",
+                "en_US": "Bandarawela"
+            },
+            {
+                "index": 285,
+                "si_LK": "ඇල්ල",
+                "ta_IN": "எல்ல",
+                "en_US": "Ella"
+            },
+            {
+                "index": 286,
+                "si_LK": "හපුතලේ",
+                "ta_IN": "ஹபுத‍லே",
+                "en_US": "Haputale"
+            },
+            {
+                "index": 287,
+                "si_LK": "හල්දුම්මුල්ල",
+                "ta_IN": "ஹல்துமுள்ள",
+                "en_US": "Haldummulla"
+            }
+        ]
+    },
+    {
+        "index": 23,
+        "si_LK": "මොනරාගල",
+        "ta_IN": "‎மொணராக‍லை",
+        "en_US": "Moneragala",
+        "divisions": [
+            {
+                "index": 288,
+                "si_LK": "බිබිලේ",
+                "ta_IN": "பிபிலை",
+                "en_US": "Bibile"
+            },
+            {
+                "index": 289,
+                "si_LK": "මඩුල්ල",
+                "ta_IN": "மதுள்‍ள",
+                "en_US": "Madulla"
+            },
+            {
+                "index": 290,
+                "si_LK": "මැදගම",
+                "ta_IN": "‎மெதகம",
+                "en_US": "Medagama"
+            },
+            {
+                "index": 291,
+                "si_LK": "සියඹලාන්ඩුව",
+                "ta_IN": "சியம்பலாண்டுவ",
+                "en_US": "Siyambalanduwa"
+            },
+            {
+                "index": 292,
+                "si_LK": "මොනරාගල",
+                "ta_IN": "‎மொணராகலை",
+                "en_US": "Moneragala"
+            },
+            {
+                "index": 293,
+                "si_LK": "බඩැල්කුඹුර",
+                "ta_IN": "படல்கும்புர",
+                "en_US": "Badalkumbura"
+            },
+            {
+                "index": 294,
+                "si_LK": "වැල්ලවාය",
+                "ta_IN": "‎வெல்லவாய",
+                "en_US": "Wellawaya"
+            },
+            {
+                "index": 295,
+                "si_LK": "බුත්තල",
+                "ta_IN": "புத்தலை",
+                "en_US": "Buttala"
+            },
+            {
+                "index": 296,
+                "si_LK": "කතරගම",
+                "ta_IN": "கதிர்காமம்",
+                "en_US": "Katharagama"
+            },
+            {
+                "index": 297,
+                "si_LK": "තනමල්විල",
+                "ta_IN": "தணமல்வில",
+                "en_US": "Thanamalvila"
+            },
+            {
+                "index": 298,
+                "si_LK": "සෙවනගල",
+                "ta_IN": "‎செவணகல",
+                "en_US": "Sevanagala"
+            }
+        ]
+    },
+    {
+        "index": 24,
+        "si_LK": "රත්නපුර",
+        "ta_IN": "இரத்திணபுரி",
+        "en_US": "Ratnapura",
+        "divisions": [
+            {
+                "index": 299,
+                "si_LK": "ඇහැලියගොඩ",
+                "ta_IN": "எஹலிய‎‎கெடை",
+                "en_US": "Eheliyagoda"
+            },
+            {
+                "index": 300,
+                "si_LK": "කුරුවිට",
+                "ta_IN": "குருவிட",
+                "en_US": "Kuruvita"
+            },
+            {
+                "index": 301,
+                "si_LK": "කිරිඇල්ල",
+                "ta_IN": "கிரிஎல்ல",
+                "en_US": "Kiriella"
+            },
+            {
+                "index": 302,
+                "si_LK": "රත්නපුර",
+                "ta_IN": "இரத்திணபுரி",
+                "en_US": "Ratnapura"
+            },
+            {
+                "index": 303,
+                "si_LK": "ඉඹුල්පෙ",
+                "ta_IN": "இம்புல்‍பே",
+                "en_US": "Imbulpe"
+            },
+            {
+                "index": 304,
+                "si_LK": "බලන්ගොඩ",
+                "ta_IN": "பலாங்‎கொடை",
+                "en_US": "Balangoda"
+            },
+            {
+                "index": 305,
+                "si_LK": "ඕපනායක",
+                "ta_IN": "ஓபணாயக்க",
+                "en_US": "Opanayaka"
+            },
+            {
+                "index": 306,
+                "si_LK": "පැල්මඩුල්ල",
+                "ta_IN": "‎பெல்மடுல்ல",
+                "en_US": "Pelmadulla"
+            },
+            {
+                "index": 307,
+                "si_LK": "ඇලපාත",
+                "ta_IN": "எலபாத",
+                "en_US": "Elapatha"
+            },
+            {
+                "index": 308,
+                "si_LK": "අයගම",
+                "ta_IN": "அயகம",
+                "en_US": "Ayagama"
+            },
+            {
+                "index": 309,
+                "si_LK": "කලවාන",
+                "ta_IN": "கலவான",
+                "en_US": "Kalawana"
+            },
+            {
+                "index": 310,
+                "si_LK": "නිවිතිගල",
+                "ta_IN": "நிவித்திகல",
+                "en_US": "Nivithigala"
+            },
+            {
+                "index": 311,
+                "si_LK": "කහවත්ත",
+                "ta_IN": "கஹவத்த",
+                "en_US": "Kahawatta"
+            },
+            {
+                "index": 312,
+                "si_LK": "ගොඩකවෙල",
+                "ta_IN": "‎கொடக‎வெல",
+                "en_US": "Godakawela"
+            },
+            {
+                "index": 313,
+                "si_LK": "වැලිගෙපොල",
+                "ta_IN": "‎வெலி‍‍கே‎பொல",
+                "en_US": "Weligepola"
+            },
+            {
+                "index": 314,
+                "si_LK": "ඇඹිලිපිටිය",
+                "ta_IN": "எம்பிலிபிட்டிய",
+                "en_US": "Embilipitiya"
+            },
+            {
+                "index": 315,
+                "si_LK": "කොලොන්න",
+                "ta_IN": "‎கொ‎லொண்ண",
+                "en_US": "Kolonna"
+            }
+        ]
+    },
+    {
+        "index": 25,
+        "si_LK": "කෑගල්ල",
+        "ta_IN": "‍‎‍‍‍கேகா‍லை",
+        "en_US": "Kegalle",
+        "divisions": [
+            {
+                "index": 316,
+                "si_LK": "රඹුක්කන",
+                "ta_IN": "ரம்புக்கணை",
+                "en_US": "Rambukkana"
+            },
+            {
+                "index": 317,
+                "si_LK": "මාවනැල්ල",
+                "ta_IN": "மாவ‎ணெல்ல",
+                "en_US": "Mawanella"
+            },
+            {
+                "index": 318,
+                "si_LK": "අරනායක",
+                "ta_IN": "அரநாயக்க",
+                "en_US": "Aranayaka"
+            },
+            {
+                "index": 319,
+                "si_LK": "කෑගල්ල",
+                "ta_IN": "‍கேகாலை",
+                "en_US": "Kegalle"
+            },
+            {
+                "index": 320,
+                "si_LK": "ගලිගමුව",
+                "ta_IN": "கலிகமுவ",
+                "en_US": "Galigamuwa"
+            },
+            {
+                "index": 321,
+                "si_LK": "වරකාපොළ",
+                "ta_IN": "வரகாப்‎பொல",
+                "en_US": "Warakapola"
+            },
+            {
+                "index": 322,
+                "si_LK": "රුවන්වැල්ල",
+                "ta_IN": "ருவண்‎வெல்ல",
+                "en_US": "Ruwanwella"
+            },
+            {
+                "index": 323,
+                "si_LK": "බුලත්කොහුපිටිය",
+                "ta_IN": "புலத்‎கொஹுபிட்டிய",
+                "en_US": "Bulathkohupitiya"
+            },
+            {
+                "index": 324,
+                "si_LK": "යටියන්තොට",
+                "ta_IN": "யட்டியந்‎தொட்டை",
+                "en_US": "Yatiyanthota"
+            },
+            {
+                "index": 325,
+                "si_LK": "දෙහිඹ්විට",
+                "ta_IN": "‎தெஹி‍யோவிட்ட",
+                "en_US": "Dehiovita"
+            },
+            {
+                "index": 326,
+                "si_LK": "දැරණියගල",
+                "ta_IN": "‎தெரணியகல",
+                "en_US": "Deraniyagala"
+            }
+        ]
+    }
+]

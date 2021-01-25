@@ -1,0 +1,56 @@
+[
+    {
+        "index": 1,
+        "si_LK": "බස්නාහිර",
+        "ta_IN": "மேற்கு",
+        "en_US": "Western"
+    },
+    {
+        "index": 2,
+        "si_LK": "මධ්‍යම",
+        "ta_IN": "மத்திய",
+        "en_US": "Central"
+    },
+    {
+        "index": 3,
+        "si_LK": "දකුණ",
+        "ta_IN": "தெற்கு",
+        "en_US": "Southern"
+    },
+    {
+        "index": 4,
+        "si_LK": "උතුර",
+        "ta_IN": "வடக்கு",
+        "en_US": "Northern"
+    },
+    {
+        "index": 5,
+        "si_LK": "නැගෙනහිර",
+        "ta_IN": "கிழக்கு",
+        "en_US": "Eastern"
+    },
+    {
+        "index": 6,
+        "si_LK": "වයඹ",
+        "ta_IN": "வட ‍மேற்கு",
+        "en_US": "North-Western"
+    },
+    {
+        "index": 7,
+        "si_LK": "උතුරු මැද",
+        "ta_IN": "வட மத்திய",
+        "en_US": "North-Central"
+    },
+    {
+        "index": 8,
+        "si_LK": "ඌව",
+        "ta_IN": "ஊவா",
+        "en_US": "Uva"
+    },
+    {
+        "index": 9,
+        "si_LK": "සබරගමුව",
+        "ta_IN": "சபரகமூவ",
+        "en_US": "Sabaragamuwa"
+    }
+]
